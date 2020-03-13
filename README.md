@@ -71,9 +71,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-###Mock Design
-![](images/mock1.png)
+### Mock Design
 
-![](images/mock2.png)
+![](images/mock1.JPG)
 
-![](images/mock3.png)
+![](images/mock2.JPG)
+
+![](images/mock3.JPG)
